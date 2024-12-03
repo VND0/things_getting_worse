@@ -1,0 +1,1 @@
+Человечки в local/master и origin/demo не отличаются
