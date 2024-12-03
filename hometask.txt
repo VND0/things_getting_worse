@@ -1,1 +1,4 @@
 Человечки в local/master и origin/demo не отличаются
+
+В master - 11 коммитов + этот будет
+В boots_buttons - 7 коммитов
