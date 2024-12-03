@@ -2,3 +2,18 @@
 
 В master - 11 коммитов + этот будет
 В boots_buttons - 7 коммитов
+
+Простите, забыл про комментарии. Теперь суммарно коммитов будет 13
+
+1. init
+2. heat added
+3. boots
+4. README added
+5. dots
+6. fix readme
+7. Merge remote-tracking branch 'origin/boots' into boots_buttons
+8. Merge remote-tracking branch 'origin/buttons' into boots_buttons
+9. Merge remote-tracking branch 'origin/hat'
+10. Merge branch 'boots_buttons'
+11. First hometask.txt
+12. Changed hometask.txt
